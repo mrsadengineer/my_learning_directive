@@ -7,7 +7,7 @@
   <img src="https://i.imgur.com/A5J6Qdb.png" width="316" height="292"/>
 </p>
 
-[a Programming Languages](ProgrammingLanguage.md)
+[Programming Languages](ProgrammingLanguages.md)
 
 
 **Learning Philosophy**: 
@@ -1554,10 +1554,7 @@
 - [ ] [Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)
 - [ ] [Youtube: Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
 
-### Be familiar with compiled languages
-- [ ] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
-- [ ] [Udacity: C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
-- [ ] [Udacity: Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+
 
 ### Have a general understanding of other parts of the stack
 - [ ] [Book: Refactoring UI](https://refactoringui.com/book/)
