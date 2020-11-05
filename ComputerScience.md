@@ -41,3 +41,75 @@
 ### Be able to efficiently use a text editor
 - [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
 - [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
+
+### Be able to utilize version control
+- [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
+- [ ] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
+- [ ] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
+- [ ] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+- [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
+- [ ] [Learn Git Branching](https://learngitbranching.js.org)
+- [ ] [Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)
+- [ ] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+- [ ] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- [ ] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+
+
+
+
+### Be able to write unit tests
+- [ ] [Article: Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml)
+- [ ] [Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
+- [ ] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
+- [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+- [ ] [Thoughtbot: Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
+- [ ] [Treehouse: Python Testing](https://teamtreehouse.com/library/python-testing)
+- [ ] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
+- [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
+- [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+- [ ] [Youtube: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList | AISC](https://www.youtube.com/watch?v=A0od6RosVSA)
+
+### Be able to develop REST APIs
+- [ ] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
+- [ ] [Article: Deploy BERT for Sentiment Analysis as REST API using PyTorch, Transformers by Hugging Face and FastAPI](https://www.curiousily.com/posts/deploy-bert-for-sentiment-analysis-as-rest-api-using-pytorch-transformers-by-hugging-face-and-fastapi/)
+- [ ] [Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)
+- [ ] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
+- [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+- [ ] [Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
+- [ ] [Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+- [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+- [ ] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
+- [ ] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
+
+### Be able to setup interactive webapps for models
+- [ ] [New layout options for Streamlit](https://blog.streamlit.io/introducing-new-layout-options-for-streamlit/)
+
+### Have a general understanding of other parts of the stack
+- [ ] [Book: Refactoring UI](https://refactoringui.com/book/)
+- [ ] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
+- [ ] [Codecademy: Learn Color Design](https://www.codecademy.com/learn/learn-color-design)
+- [ ] [Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)
+- [ ] [Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)
+- [ ] [Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
+- [ ] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
+- [ ] [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
+- [ ] [Codecademy: Jquery Track](https://www.codecademy.com/learn/learn-jquery)
+- [ ] [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
+- [ ] [Code School: Fundamentals of Design](https://www.pluralsight.com/courses/code-school-fundamentals-of-design)
+- [ ] [Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)
+- [ ] [(ES6) - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
+- [ ] [Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)
+- [ ] [Pluralsight: HTML, CSS, and JavaScript: The Big Picture](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture)
+- [ ] [Pluralsight: CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)
+- [ ] [Pluralsight: Introduction to CSS](https://www.pluralsight.com/courses/css-intro)
+- [ ] [Pluralsight: CSS: Specificity, the Box Model, and Best Practices](https://app.pluralsight.com/interactive-courses/detail/c580b092-d94a-4ed8-8d2a-2f4d0b76f99f)
+- [ ] [Pluralsight: CSS: Using Flexbox for Layout](https://app.pluralsight.com/interactive-courses/detail/a089d0a5-4a4c-4c4e-b883-c1bc64009619)
+- [ ] [Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)
+- [ ] [Thoughtbot: Design for Developers](https://thoughtbot.com/upcase/design-for-developers)
+- [ ] [Treehouse: HTML](https://teamtreehouse.com/library/html)
+- [ ] [Treehouse: Javascript Booleans](https://teamtreehouse.com/library/javascript-booleans)
+- [ ] [Udacity: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
+- [ ] [Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
+- [ ] [Udacity: Object Oriented JS 1](https://www.udacity.com/course/object-oriented-javascript--ud015)
+- [ ] [Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)
+- [ ] [Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)
