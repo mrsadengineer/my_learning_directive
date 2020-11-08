@@ -1,4 +1,4 @@
-##Computer Science
+## Computer Science
 
 ### Be able to use the command line
 - [ ] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
@@ -40,7 +40,9 @@
 
 ### Be able to efficiently use a text editor
 - [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
-- [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
+- [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)  
+- [ ] [Video: Pycharm Tips](https://www.jetbrains.com/pycharm/guide/tips/)
+- [ ] [Youtube: Productive pytest with PyCharm](https://www.youtube.com/watch?v=ixqeebhUa-w)
 
 ### Be able to utilize version control
 - [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
