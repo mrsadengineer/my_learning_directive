@@ -1,7 +1,8 @@
-﻿##Data Sciences
+﻿##Data Sciences  
 <p align="center">
   <img src="https://i.imgur.com/A5J6Qdb.png" width="316" height="292"/>
-</p>
+</p>  
+
 ### Be able to frame a ML problem  
 - [ ] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)  
 - [ ] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)  
