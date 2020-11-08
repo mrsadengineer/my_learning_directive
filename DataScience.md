@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.imgur.com/A5J6Qdb.png" width="316" height="292"/>
 </p>
-### Be able to frame a ML problem
+### Be able to frame a ML problem  
 - [ ] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)  
 - [ ] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)  
 - [ ] [Article: Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)  
@@ -243,6 +243,7 @@
 
 ### Be able to structure machine learning projects
 - [ ] [Article: I trained a model. What is next?](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
+- [ ] [Article: pydantic](https://towardsdatascience.com/pydantic-688e897cfd3a)
 - [ ] [Article: Always start with a stupid model, no exceptions.](https://mlpowered.com/posts/start-with-a-stupid-model/)
 - [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
 - [ ] [Article: Most impactful AI trends of 2018: the rise of ML Engineering](https://mlpowered.com/posts/2019-ml-trends/)
@@ -253,6 +254,7 @@
 - [ ] [Article: Best practices to write Deep Learning code: Project structure, OOP, Type checking and documentation](https://theaisummer.com/best-practices-deep-learning-code/)
 - [ ] [Article: Deep Learning in Production: Laptop set up and system design](https://theaisummer.com/deep-learning-production/)
 - [ ] [Article: Configuring Google Colab Like A Pro](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
+- [ ] [Article: Stop using print, start using loguru in Python](https://handyman.dulare.com/stop-using-print-start-using-loguru-in-python/)
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 - [ ] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
 - [ ] [Datacamp: Conda for Building & Distributing Packages](https://www.datacamp.com/courses/conda-for-building-distributing-packages)
@@ -302,6 +304,7 @@
     - [ ] [MLOps Tutorial #2: When data is too big for Git](https://youtu.be/kZKAuShWF0s?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `10:51:00`
     - [ ] [MLOps Tutorial #3: Track ML models with Git & GitHub Actions](https://youtu.be/xPncjKH6SPk?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `14:12:00`
 - [ ] [Youtube: Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8&list=LL&index=2)
+- [ ] [Youtube: OO Design and Testing Patterns for Machine Learning with Chris Gerpheide](https://www.youtube.com/watch?v=VuQaS0FFUFY)  
 
 ### Be familiar with fundamental ML algorithms
 - [ ] [Article: Naive Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/)
@@ -540,6 +543,20 @@
     - [ ] [[PART 3] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=zFqsuXs6-Us) `0:22:24`
 - [ ] [Youtube: Learn with Lightning](https://www.pytorchlightning.ai/tutorials)
 - [ ] [Youtube: PyTorch Tutorial - RNN & LSTM & GRU - Recurrent Neural Nets](https://www.youtube.com/watch?v=0_PgWWmauHk) `00:15:51`
+- [ ] [Youtube: Pytorch Zero to All](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)
+    - [ ] [PyTorch Lecture 01: Overview](https://www.youtube.com/watch?v=SKq-pmkekTk) `0:10:18`
+    - [ ] [PyTorch Lecture 02: Linear Model](https://www.youtube.com/watch?v=l-Fe9Ekxxj4) `0:12:52`
+    - [ ] [PyTorch Lecture 03: Gradient Descent](https://www.youtube.com/watch?v=b4Vyma9wPHo) `0:08:24`
+    - [ ] [PyTorch Lecture 04: Back-propagation and Autograd](https://www.youtube.com/watch?v=ma2KXWblllc) `0:15:25`
+    - [ ] [PyTorch Lecture 05: Linear Regression in the PyTorch way](https://www.youtube.com/watch?v=113b7O3mabY) `0:11:50`
+    - [ ] [PyTorch Lecture 06: Logistic Regression](https://www.youtube.com/watch?v=GAKTBQn7yKo) `0:10:41`
+    - [ ] [PyTorch Lecture 07: Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M) `0:10:37`
+    - [ ] [PyTorch Lecture 08: PyTorch DataLoader](https://www.youtube.com/watch?v=zN49HdDxHi8) `0:06:41`
+    - [ ] [PyTorch Lecture 09: Softmax Classifier](https://www.youtube.com/watch?v=lvNdl7yg4Pg) `0:18:47`
+    - [ ] [PyTorch Lecture 10: Basic CNN](https://www.youtube.com/watch?v=LgFNRIFxuUo) `0:15:52`
+    - [ ] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE) `0:12:58`
+    - [ ] [PyTorch Lecture 12: RNN1 - Basics](https://www.youtube.com/watch?v=ogZi5oIo4fI) `0:28:47`
+    - [ ] [PyTorch Lecture 13: RNN 2 - Classification](https://www.youtube.com/watch?v=1vGOQAel2yU) `0:17:22`
 
 ### Be able to implement models using cloud services
 - [ ] [AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)
@@ -649,7 +666,8 @@
 - [ ] [Youtube: Sebastian Ruder: Neural Semi-supervised Learning under Domain Shift](https://www.youtube.com/watch?v=tpAr5-Y4JxU)
 - [ ] [Youtube: Clustering Algorithms](https://www.youtube.com/playlist?list=PLBv09BD7ez_6lYVoZ1RzVcOPIT5Lfjo0Y)
 
-### Be able to implement NLP models
+### Be able to implement NLP models  
+- [ ] [Article: Understanding ARPA and Language Models](https://medium.com/@canadaduane/understanding-arpa-and-language-models-115d6cbc3893)
 - [ ] [Article: Transformer-based Encoder-Decoder Models](https://colab.research.google.com/github/patrickvonplaten/notebooks/blob/master/Encoder_Decoder_Model.ipynb)
 - [ ] [Article: Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
 - [ ] [Article: Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
@@ -663,6 +681,21 @@
 - [ ] [Article: DialogRPT with Huggingface Transformers](https://parthplc.medium.com/dialogrpt-with-huggingface-transformers-which-comments-get-more-likes-more-replies-and-are-5e7e13a5429f)
 - [ ] [Article: How to Outperform GPT-3 by Combining Task Descriptions With Supervised Learning](http://www.timoschick.com/explanatory%20notes/2020/10/23/pattern-exploiting-training.html)
 - [ ] [Article: How we used Universal Sentence Encoder and FAISS to make our search 10x smarter](https://blog.onebar.io/building-a-semantic-search-engine-using-open-source-components-e15af5ed7885)
+- [ ] [Article: Porting fairseq wmt19 translation system to transformers](https://huggingface.co/blog/porting-fsmt)
+- [ ] [Article: Semantic search using BERT embeddings](https://medium.com/@ajitrajasekharan/semantic-search-using-bert-embeddings-511c5d78348e)
+- [ ] [Article: GPT-2 A nascent transfer learning method that could eliminate supervised learning in some NLP tasks](https://medium.com/@ajitrajasekharan/gpt-2-a-promising-but-nascent-transfer-learning-method-that-could-reduce-or-even-eliminate-in-some-48ea3370cc21)
+- [ ] [Article: Brief review of word embedding families (2019)](https://medium.com/analytics-vidhya/brief-review-of-word-embedding-families-2019-b2bbc601bbfe)
+- [ ] [Article: Trends in input representation for state-of-art NLP models (2019)](https://medium.com/@ajitrajasekharan/trends-in-input-representation-for-state-of-art-nlp-models-2019-fd162ebccd15)
+- [ ] [Article: Solving NER with BERT for any entity type with very little training data (compared to past approaches)](https://medium.com/@ajitrajasekharan/solving-ner-with-bert-for-any-entity-type-with-very-little-training-data-compared-to-past-50094e2e3df9)
+- [ ] [Article: Deconstructing BERT](https://towardsdatascience.com/deconstructing-bert-reveals-clues-to-its-state-of-art-performance-in-nlp-tasks-76a7e828c0f1)
+- [ ] [Article: A review of BERT based models](https://towardsdatascience.com/a-review-of-bert-based-models-4ffdc0f15d58)
+- [ ] [Article: XLNet — a clever language modeling solution](https://towardsdatascience.com/xlnet-a-clever-language-modeling-solution-ab41e87798b0)
+- [ ] [Article: T5 — a model that explores the limits of transfer learning](https://towardsdatascience.com/t5-a-model-that-explores-the-limits-of-transfer-learning-fb29844890b7)
+- [ ] [Article: Examining BERT’s raw embeddings](https://towardsdatascience.com/examining-berts-raw-embeddings-fd905cb22df7)
+- [ ] [Article: Unsupervised NER using BERT](https://towardsdatascience.com/unsupervised-ner-using-bert-2d7af5f90b8a)
+- [ ] [Article: Document search with fragment embeddings](https://towardsdatascience.com/document-search-with-fragment-embeddings-7e1d73eb0104)
+- [ ] [Article: Unsupervised creation of interpretable sentence representations](https://towardsdatascience.com/unsupervised-creation-of-interpretable-sentence-representations-851e74921cf9)
+- [ ] [Article: Maximizing BERT model performance](https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab)
 - [ ] [Article: Character level language model RNN](https://arig23498.github.io/char-level-language-model)
 - [ ] [Article: How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
 - [ ] [Article: How To Create Data Products That Are Magical Using Sequence-to-Sequence Models](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)
@@ -1034,6 +1067,7 @@
 - [ ] [Youtube: What can MIR learn from transfer learning in NLP?](https://www.youtube.com/watch?v=9ufD9Who00Y&t=13m26s)
 - [ ] [Youtube: The Narrated Transformer Language Model](https://www.youtube.com/watch?v=-QH8fRhqFHM)
 - [ ] [Youtube: spaCy v3.0: Bringing State-of-the-art NLP from Prototype to Production](https://globalai.live/october-sessions-natural-language-processing/keynote-2/) `00:22:40`
+- [ ] [Youtube: Conversational AI with Transformers and Rule-Based Systems](https://www.youtube.com/watch?v=_-rCUnPBlME) `1:53:24`
 
 
 ### Be familiar with Recommendation Systems
