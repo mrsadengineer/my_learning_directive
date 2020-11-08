@@ -1,4 +1,4 @@
-﻿##Data Sciences  
+##Data Sciences  
 <p align="center">
   <img src="https://i.imgur.com/A5J6Qdb.png" width="316" height="292"/>
 </p>  
@@ -318,7 +318,8 @@
 - [ ] [Article: Random forests](https://www.jeremyjordan.me/random-forests/)
 - [ ] [Article: Boosted trees](https://www.jeremyjordan.me/boosted-trees/)
 - [ ] [Article: Hacker's Guide to Fundamental Machine Learning Algorithms with Python](https://www.curiousily.com/posts/hackers-guide-to-fundamental-machine-learning-algorithms/)
-- [ ] [Article: Simple Ways to Tackle Class Imbalance](https://wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
+- [ ] [Article: Simple Ways to Tackle Class Imbalance](https://wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)  
+- [ ] [Article: MLE and MAP — in layman’s terms](https://medium.com/@ajitrajasekharan/mle-and-map-in-laymans-terms-8527061b15a6)  
 - [ ] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
 - [ ] [Datacamp: AI Fundamentals](https://www.datacamp.com/courses/fundamentals-of-ai)
 - [ ] [Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
