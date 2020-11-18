@@ -1,68 +1,70 @@
-﻿##Data Sciences
+##Data Sciences  
 <p align="center">
   <img src="https://i.imgur.com/A5J6Qdb.png" width="316" height="292"/>
-</p>
-### Be able to frame a ML problem
-- [ ] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
-- [ ] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
-- [ ] [Article: Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
-- [ ] [Article: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
-- [ ] [Article: Recent Advances in Google Translate](https://ai.googleblog.com/2020/06/recent-advances-in-google-translate.html)
-- [ ] [Article: A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
-- [ ] [Article: How to deliver on Machine Learning projects](https://mlpowered.com/posts/how-to-deliver-on-machine-learning-projects/)
-- [ ] [Article: Data Science as a Product](https://blog.picnic.nl/data-science-as-a-product-f383dead5aa4)
-- [ ] [Book: AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
-- [ ] [Book: A Human's Guide to Machine Intelligence](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms/dp/0525560882)
-- [ ] [Book: The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
-- [ ] [Book: Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
-- [ ] [Book: Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670)
-- [ ] [Book: Building Machine Learning Powered Applications: Going from Idea to Product](https://www.amazon.com/Building-Machine-Learning-Powered-Applications/dp/149204511X/)
-- [ ] [Coursera: AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
-- [ ] [Datacamp: Case Studies in Statistical Thinking](https://www.datacamp.com/courses/case-studies-in-statistical-thinking)
-- [ ] [Datacamp: Data Science for Everyone](https://www.datacamp.com/courses/data-science-for-everyone)
-- [ ] [Datacamp: Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets)
-- [ ] [Datacamp: Machine Learning for Everyone](https://www.datacamp.com/courses/machine-learning-for-everyone)
-- [ ] [Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)
-- [ ] [Datacamp: HR Analytics in Python: Predicting Employee Churn](https://www.datacamp.com/courses/hr-analytics-in-python-predicting-employee-churn)
-- [ ] [Datacamp: Predicting Customer Churn in Python](https://www.datacamp.com/courses/predicting-customer-churn-in-python)
-- [ ] [Datacamp: Data Science for Managers](https://www.datacamp.com/courses/data-science-for-managers)
-- [ ] [Facebook: Field Guide to Machine Learning](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
-- [ ] [Google: Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
-- [ ] [Microsoft: Define an AI strategy to create business value](https://aischool.microsoft.com/en-us/business/learning-paths/define-an-ai-strategy-to-create-business-value)
-- [ ] [Microsoft: Discover ways to foster an AI-ready culture in your business](https://aischool.microsoft.com/en-us/business/learning-paths/discover-ways-to-foster-an-ai-ready-culture-in-your-business)
-- [ ] [Microsoft: Identify guiding principles for responsible AI in your business](https://aischool.microsoft.com/en-us/business/learning-paths/identify-guiding-principles-for-responsible-ai-in-your-business)
-- [ ] [Microsoft: Introduction to AI technology for business leaders](https://aischool.microsoft.com/en-us/business/learning-paths/introduction-to-ai-technology-for-business-leaders)
-- [ ] [Pluralsight: How to Think About Machine Learning Algorithms](https://www.pluralsight.com/courses/machine-learning-algorithms)
-- [ ] [Udacity: Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
-- [ ] [Youtube: Vincent Warmerdam: The profession of solving (the wrong problem) | PyData Amsterdam 2019](https://youtu.be/kYMfE9u-lMo)
-- [ ] [Youtube: Making Money from AI by Predicting Sales - Jay's Intro to AI Part 2](https://youtu.be/V4-lXSs3jrk)
-- [ ] [Youtube: How does YouTube recommend videos? - AI EXPLAINED!](https://www.youtube.com/watch?v=wDxTWp3KMMs) `0:33:53`
-- [ ] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`
-- [ ] [Youtube: Data Science in Finance](https://www.youtube.com/watch?v=mbOkL39Uabs) `0:17:52`
-- [ ] [Youtube: The Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
-	- [ ] [How Far is Too Far? | The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8) `0:34:39`
-	- [ ] [Healed through A.I. | The Age of A.I.](https://www.youtube.com/watch?v=V5aZjsWM2wo) `0:39:55`
-	- [ ] [Using A.I. to build a better human | The Age of A.I.](https://www.youtube.com/watch?v=lrv8ga02VNg) `0:44:27`
-	- [ ] [Love, art and stories: decoded | The Age of A.I.](https://www.youtube.com/watch?v=Kr1fmKVY3cA) `0:38:57`
-	- [ ] [The 'Space Architects' of Mars | The Age of A.I.](https://www.youtube.com/watch?v=lIvrIKaNCRE) `0:30:10`
-	- [ ] [Will a robot take my job? | The Age of A.I.](https://www.youtube.com/watch?v=f2aocKWrPG8) `0:36:14`
-	- [ ] [Saving the world one algorithm at a time | The Age of A.I.](https://www.youtube.com/watch?v=0wy4u34fii4) `0:46:37`
-	- [ ] [How A.I. is searching for Aliens | The Age of A.I.](https://www.youtube.com/watch?v=VwtC_4t2g5M) `0:36:12`
-- [ ] [Youtube: Gradient Dissent Podcast](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_)
-	- [ ] [DeepChem creator Bharath Ramsundar on using deep learning for molecules and medicine discovery](https://www.youtube.com/watch?v=GnkpVjp117k) `0:55:11`
-	- [ ] [ML Research and Production Pipelines with Chip Huyen](https://www.youtube.com/watch?v=6adNHwE5PHY) `0:43:07`
-	- [ ] [Product Management for AI with Peter Skomoroch](https://www.youtube.com/watch?v=hSyb3xEvCrI) `1:28:14`
-	- [ ] [Slow down and change one thing at a time - Advancing AI research with Josh Tobin](https://www.youtube.com/watch?v=G6AgmZ6_R3U) `0:48:19`
-	- [ ] [Societal Impacts of Artificial Intelligence with Miles Brundage](https://www.youtube.com/watch?v=O2ya8M72y0U) `1:02:25`
-	- [ ] [Deep Reinforcement Learning and Robotics with Peter Welinder](https://www.youtube.com/watch?v=1VI3xTh-TMA) `0:54:22`
-	- [ ] [Machine learning across industries with Vicki Boykis](https://www.youtube.com/watch?v=pOnRSYSNuXI) `0:34:02`
-	- [ ] [Designing ML models for millions of consumer robots - Angela Bassa and Danielle Dean](https://www.youtube.com/watch?v=W55uO4gIlQ4) `0:52:38`
-	- [ ] [Building trustworthy AI systems and combating potential malicious use – A conversation w/ Jack Clark](https://www.youtube.com/watch?v=nv_f1Gk8Ybk) `0:55:56`
-	- [ ] [Rachael Tatman - Conversational A.I. and Linguistics](https://www.youtube.com/watch?v=n_CTGZSq4m0) `0:36:51`
-	- [ ] [Nicolas Koumchatzky - Machine Learning in Production for Self Driving Cars](https://www.youtube.com/watch?v=NbiG8ZuRsqU) `0:44:56`
-	- [ ] [Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
-- [ ] [Youtube: Accuracy as a Failure](https://youtu.be/YGuVuZpTop0)
-- [ ] [Youtube: Using Intent Data to Optimize the Self-Solve Experience](https://lucidworks.com/post/using-intent-data-to-optimize-the-self-solve-experience/)
+</p>  
+
+### Be able to frame a ML problem  
+- [ ] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)  
+- [ ] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)  
+- [ ] [Article: Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)  
+- [ ] [Article: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)  
+- [ ] [Article: Recent Advances in Google Translate](https://ai.googleblog.com/2020/06/recent-advances-in-google-translate.html)  
+- [ ] [Article: A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)  
+- [ ] [Article: How to deliver on Machine Learning projects](https://mlpowered.com/posts/how-to-deliver-on-machine-learning-projects/)  
+- [ ] [Article: Data Science as a Product](https://blog.picnic.nl/data-science-as-a-product-f383dead5aa4)  
+- [ ] [Book: AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)  
+- [ ] [Book: A Human's Guide to Machine Intelligence](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms/dp/0525560882)  
+- [ ] [Book: The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)  
+- [ ] [Book: Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)  
+- [ ] [Book: Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670)  
+- [ ] [Book: Building Machine Learning Powered Applications: Going from Idea to Product](https://www.amazon.com/Building-Machine-Learning-Powered-Applications/dp/149204511X/)  
+- [ ] [Coursera: AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)  
+- [ ] [Datacamp: Case Studies in Statistical Thinking](https://www.datacamp.com/courses/case-studies-in-statistical-thinking)  
+- [ ] [Datacamp: Data Science for Everyone](https://www.datacamp.com/courses/data-science-for-everyone)  
+- [ ] [Datacamp: Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets)  
+- [ ] [Datacamp: Machine Learning for Everyone](https://www.datacamp.com/courses/machine-learning-for-everyone)  
+- [ ] [Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)  
+- [ ] [Datacamp: HR Analytics in Python: Predicting Employee Churn](https://www.datacamp.com/courses/hr-analytics-in-python-predicting-employee-churn)  
+- [ ] [Datacamp: Predicting Customer Churn in Python](https://www.datacamp.com/courses/predicting-customer-churn-in-python)  
+- [ ] [Datacamp: Data Science for Managers](https://www.datacamp.com/courses/data-science-for-managers)  
+- [ ] [Facebook: Field Guide to Machine Learning](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)  
+- [ ] [Google: Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)  
+- [ ] [Microsoft: Define an AI strategy to create business value](https://aischool.microsoft.com/en-us/business/learning-paths/define-an-ai-strategy-to-create-business-value)  
+- [ ] [Microsoft: Discover ways to foster an AI-ready culture in your business](https://aischool.microsoft.com/en-us/business/learning-paths/discover-ways-to-foster-an-ai-ready-culture-in-your-business)  
+- [ ] [Microsoft: Identify guiding principles for responsible AI in your business](https://aischool.microsoft.com/en-us/business/learning-paths/identify-guiding-principles-for-responsible-ai-in-your-business)  
+- [ ] [Microsoft: Introduction to AI technology for business leaders](https://aischool.microsoft.com/en-us/business/learning-paths/introduction-to-ai-technology-for-business-leaders)  
+- [ ] [Pluralsight: How to Think About Machine Learning Algorithms](https://www.pluralsight.com/courses/machine-learning-algorithms)  
+- [ ] [Udacity: Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)  
+- [ ] [Youtube: Vincent Warmerdam: The profession of solving (the wrong problem) | PyData Amsterdam 2019](https://youtu.be/kYMfE9u-lMo)  
+- [ ] [Youtube: Making Money from AI by Predicting Sales - Jay's Intro to AI Part 2](https://youtu.be/V4-lXSs3jrk)  
+- [ ] [Youtube: How does YouTube recommend videos? - AI EXPLAINED!](https://www.youtube.com/watch?v=wDxTWp3KMMs) `0:33:53`  
+- [ ] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`  
+- [ ] [Youtube: Data Science in Finance](https://www.youtube.com/watch?v=mbOkL39Uabs) `0:17:52`  
+- [ ] [Youtube: The Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)  
+	- [ ] [How Far is Too Far? | The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8) `0:34:39`  
+	- [ ] [Healed through A.I. | The Age of A.I.](https://www.youtube.com/watch?v=V5aZjsWM2wo) `0:39:55`  
+	- [ ] [Using A.I. to build a better human | The Age of A.I.](https://www.youtube.com/watch?v=lrv8ga02VNg) `0:44:27`  
+	- [ ] [Love, art and stories: decoded | The Age of A.I.](https://www.youtube.com/watch?v=Kr1fmKVY3cA) `0:38:57`  
+	- [ ] [The 'Space Architects' of Mars | The Age of A.I.](https://www.youtube.com/watch?v=lIvrIKaNCRE) `0:30:10`  
+	- [ ] [Will a robot take my job? | The Age of A.I.](https://www.youtube.com/watch?v=f2aocKWrPG8) `0:36:14`  
+	- [ ] [Saving the world one algorithm at a time | The Age of A.I.](https://www.youtube.com/watch?v=0wy4u34fii4) `0:46:37`  
+	- [ ] [How A.I. is searching for Aliens | The Age of A.I.](https://www.youtube.com/watch?v=VwtC_4t2g5M) `0:36:12`  
+- [ ] [Youtube: Gradient Dissent Podcast](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_)  
+	- [ ] [DeepChem creator Bharath Ramsundar on using deep learning for molecules and medicine discovery](https://www.youtube.com/watch?v=GnkpVjp117k) `0:55:11`  
+	- [ ] [ML Research and Production Pipelines with Chip Huyen](https://www.youtube.com/watch?v=6adNHwE5PHY) `0:43:07`  
+	- [ ] [Product Management for AI with Peter Skomoroch](https://www.youtube.com/watch?v=hSyb3xEvCrI) `1:28:14`  
+	- [ ] [Slow down and change one thing at a time - Advancing AI research with Josh Tobin](https://www.youtube.com/watch?v=G6AgmZ6_R3U) `0:48:19`  
+	- [ ] [Societal Impacts of Artificial Intelligence with Miles Brundage](https://www.youtube.com/watch?v=O2ya8M72y0U) `1:02:25`  
+	- [ ] [Deep Reinforcement Learning and Robotics with Peter Welinder](https://www.youtube.com/watch?v=1VI3xTh-TMA) `0:54:22`  
+	- [ ] [Machine learning across industries with Vicki Boykis](https://www.youtube.com/watch?v=pOnRSYSNuXI) `0:34:02`  
+	- [ ] [Designing ML models for millions of consumer robots - Angela Bassa and Danielle Dean](https://www.youtube.com/watch?v=W55uO4gIlQ4) `0:52:38`  
+	- [ ] [Building trustworthy AI systems and combating potential malicious use – A conversation w/ Jack Clark](https://www.youtube.com/watch?v=nv_f1Gk8Ybk) `0:55:56`  
+	- [ ] [Rachael Tatman - Conversational A.I. and Linguistics](https://www.youtube.com/watch?v=n_CTGZSq4m0) `0:36:51`  
+	- [ ] [Nicolas Koumchatzky - Machine Learning in Production for Self Driving Cars](https://www.youtube.com/watch?v=NbiG8ZuRsqU) `0:44:56`  
+	- [ ] [Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`  
+- [ ] [Youtube: Accuracy as a Failure](https://youtu.be/YGuVuZpTop0)  
+- [ ] [Youtube: Using Intent Data to Optimize the Self-Solve Experience](https://lucidworks.com/post/using-intent-data-to-optimize-the-self-solve-experience/)  
+- [ ] [Youtube: Trillions of Questions, No Easy Answers: A (home) movie about how Google Search works](https://www.youtube.com/watch?v=tFq6Q_muwG0)  
 
 ### Understand data ethics better  
 - [ ] [Practical Data Ethics](http://ethics.fast.ai/)
@@ -172,8 +174,10 @@
 - [ ] [Youtube: William Horton - A Brief History of Jupyter Notebooks](https://www.youtube.com/watch?v=kFhhCOeYcGw)
 - [ ] [Youtube: I Like Notebooks](https://www.youtube.com/watch?v=9Q6sLbz37gk)
 - [ ] [Youtube: I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)](https://www.youtube.com/watch?v=7jiPeIFXb6U)
+- [ ] [Youtube: Ryan Herr - After model.fit, before you deploy| JupyterCon 2020](https://www.youtube.com/watch?v=hGHwu1h3l6g)  
 
 ### Be able to visualize data
+- [ ] [Article: Creating a Catchier Word Cloud Presentation](https://towardsdatascience.com/creating-a-catchier-word-cloud-presentation-e17fa2c1ef46)  
 - [ ] [Datacamp: Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
 - [ ] [Datacamp: Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn)
 - [ ] [Datacamp: Introduction to Matplotlib](https://www.datacamp.com/courses/introduction-to-matplotlib)
@@ -240,6 +244,7 @@
 
 ### Be able to structure machine learning projects
 - [ ] [Article: I trained a model. What is next?](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
+- [ ] [Article: pydantic](https://towardsdatascience.com/pydantic-688e897cfd3a)
 - [ ] [Article: Always start with a stupid model, no exceptions.](https://mlpowered.com/posts/start-with-a-stupid-model/)
 - [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
 - [ ] [Article: Most impactful AI trends of 2018: the rise of ML Engineering](https://mlpowered.com/posts/2019-ml-trends/)
@@ -250,6 +255,7 @@
 - [ ] [Article: Best practices to write Deep Learning code: Project structure, OOP, Type checking and documentation](https://theaisummer.com/best-practices-deep-learning-code/)
 - [ ] [Article: Deep Learning in Production: Laptop set up and system design](https://theaisummer.com/deep-learning-production/)
 - [ ] [Article: Configuring Google Colab Like A Pro](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
+- [ ] [Article: Stop using print, start using loguru in Python](https://handyman.dulare.com/stop-using-print-start-using-loguru-in-python/)
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 - [ ] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
 - [ ] [Datacamp: Conda for Building & Distributing Packages](https://www.datacamp.com/courses/conda-for-building-distributing-packages)
@@ -299,6 +305,7 @@
     - [ ] [MLOps Tutorial #2: When data is too big for Git](https://youtu.be/kZKAuShWF0s?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `10:51:00`
     - [ ] [MLOps Tutorial #3: Track ML models with Git & GitHub Actions](https://youtu.be/xPncjKH6SPk?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `14:12:00`
 - [ ] [Youtube: Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8&list=LL&index=2)
+- [ ] [Youtube: OO Design and Testing Patterns for Machine Learning with Chris Gerpheide](https://www.youtube.com/watch?v=VuQaS0FFUFY)  
 
 ### Be familiar with fundamental ML algorithms
 - [ ] [Article: Naive Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/)
@@ -311,7 +318,8 @@
 - [ ] [Article: Random forests](https://www.jeremyjordan.me/random-forests/)
 - [ ] [Article: Boosted trees](https://www.jeremyjordan.me/boosted-trees/)
 - [ ] [Article: Hacker's Guide to Fundamental Machine Learning Algorithms with Python](https://www.curiousily.com/posts/hackers-guide-to-fundamental-machine-learning-algorithms/)
-- [ ] [Article: Simple Ways to Tackle Class Imbalance](https://wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
+- [ ] [Article: Simple Ways to Tackle Class Imbalance](https://wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)  
+- [ ] [Article: MLE and MAP — in layman’s terms](https://medium.com/@ajitrajasekharan/mle-and-map-in-laymans-terms-8527061b15a6)  
 - [ ] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
 - [ ] [Datacamp: AI Fundamentals](https://www.datacamp.com/courses/fundamentals-of-ai)
 - [ ] [Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
@@ -537,6 +545,20 @@
     - [ ] [[PART 3] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=zFqsuXs6-Us) `0:22:24`
 - [ ] [Youtube: Learn with Lightning](https://www.pytorchlightning.ai/tutorials)
 - [ ] [Youtube: PyTorch Tutorial - RNN & LSTM & GRU - Recurrent Neural Nets](https://www.youtube.com/watch?v=0_PgWWmauHk) `00:15:51`
+- [ ] [Youtube: Pytorch Zero to All](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)
+    - [ ] [PyTorch Lecture 01: Overview](https://www.youtube.com/watch?v=SKq-pmkekTk) `0:10:18`
+    - [ ] [PyTorch Lecture 02: Linear Model](https://www.youtube.com/watch?v=l-Fe9Ekxxj4) `0:12:52`
+    - [ ] [PyTorch Lecture 03: Gradient Descent](https://www.youtube.com/watch?v=b4Vyma9wPHo) `0:08:24`
+    - [ ] [PyTorch Lecture 04: Back-propagation and Autograd](https://www.youtube.com/watch?v=ma2KXWblllc) `0:15:25`
+    - [ ] [PyTorch Lecture 05: Linear Regression in the PyTorch way](https://www.youtube.com/watch?v=113b7O3mabY) `0:11:50`
+    - [ ] [PyTorch Lecture 06: Logistic Regression](https://www.youtube.com/watch?v=GAKTBQn7yKo) `0:10:41`
+    - [ ] [PyTorch Lecture 07: Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M) `0:10:37`
+    - [ ] [PyTorch Lecture 08: PyTorch DataLoader](https://www.youtube.com/watch?v=zN49HdDxHi8) `0:06:41`
+    - [ ] [PyTorch Lecture 09: Softmax Classifier](https://www.youtube.com/watch?v=lvNdl7yg4Pg) `0:18:47`
+    - [ ] [PyTorch Lecture 10: Basic CNN](https://www.youtube.com/watch?v=LgFNRIFxuUo) `0:15:52`
+    - [ ] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE) `0:12:58`
+    - [ ] [PyTorch Lecture 12: RNN1 - Basics](https://www.youtube.com/watch?v=ogZi5oIo4fI) `0:28:47`
+    - [ ] [PyTorch Lecture 13: RNN 2 - Classification](https://www.youtube.com/watch?v=1vGOQAel2yU) `0:17:22`
 
 ### Be able to implement models using cloud services
 - [ ] [AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)
@@ -646,7 +668,8 @@
 - [ ] [Youtube: Sebastian Ruder: Neural Semi-supervised Learning under Domain Shift](https://www.youtube.com/watch?v=tpAr5-Y4JxU)
 - [ ] [Youtube: Clustering Algorithms](https://www.youtube.com/playlist?list=PLBv09BD7ez_6lYVoZ1RzVcOPIT5Lfjo0Y)
 
-### Be able to implement NLP models
+### Be able to implement NLP models  
+- [ ] [Article: Understanding ARPA and Language Models](https://medium.com/@canadaduane/understanding-arpa-and-language-models-115d6cbc3893)
 - [ ] [Article: Transformer-based Encoder-Decoder Models](https://colab.research.google.com/github/patrickvonplaten/notebooks/blob/master/Encoder_Decoder_Model.ipynb)
 - [ ] [Article: Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
 - [ ] [Article: Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
@@ -660,6 +683,21 @@
 - [ ] [Article: DialogRPT with Huggingface Transformers](https://parthplc.medium.com/dialogrpt-with-huggingface-transformers-which-comments-get-more-likes-more-replies-and-are-5e7e13a5429f)
 - [ ] [Article: How to Outperform GPT-3 by Combining Task Descriptions With Supervised Learning](http://www.timoschick.com/explanatory%20notes/2020/10/23/pattern-exploiting-training.html)
 - [ ] [Article: How we used Universal Sentence Encoder and FAISS to make our search 10x smarter](https://blog.onebar.io/building-a-semantic-search-engine-using-open-source-components-e15af5ed7885)
+- [ ] [Article: Porting fairseq wmt19 translation system to transformers](https://huggingface.co/blog/porting-fsmt)
+- [ ] [Article: Semantic search using BERT embeddings](https://medium.com/@ajitrajasekharan/semantic-search-using-bert-embeddings-511c5d78348e)
+- [ ] [Article: GPT-2 A nascent transfer learning method that could eliminate supervised learning in some NLP tasks](https://medium.com/@ajitrajasekharan/gpt-2-a-promising-but-nascent-transfer-learning-method-that-could-reduce-or-even-eliminate-in-some-48ea3370cc21)
+- [ ] [Article: Brief review of word embedding families (2019)](https://medium.com/analytics-vidhya/brief-review-of-word-embedding-families-2019-b2bbc601bbfe)
+- [ ] [Article: Trends in input representation for state-of-art NLP models (2019)](https://medium.com/@ajitrajasekharan/trends-in-input-representation-for-state-of-art-nlp-models-2019-fd162ebccd15)
+- [ ] [Article: Solving NER with BERT for any entity type with very little training data (compared to past approaches)](https://medium.com/@ajitrajasekharan/solving-ner-with-bert-for-any-entity-type-with-very-little-training-data-compared-to-past-50094e2e3df9)
+- [ ] [Article: Deconstructing BERT](https://towardsdatascience.com/deconstructing-bert-reveals-clues-to-its-state-of-art-performance-in-nlp-tasks-76a7e828c0f1)
+- [ ] [Article: A review of BERT based models](https://towardsdatascience.com/a-review-of-bert-based-models-4ffdc0f15d58)
+- [ ] [Article: XLNet — a clever language modeling solution](https://towardsdatascience.com/xlnet-a-clever-language-modeling-solution-ab41e87798b0)
+- [ ] [Article: T5 — a model that explores the limits of transfer learning](https://towardsdatascience.com/t5-a-model-that-explores-the-limits-of-transfer-learning-fb29844890b7)
+- [ ] [Article: Examining BERT’s raw embeddings](https://towardsdatascience.com/examining-berts-raw-embeddings-fd905cb22df7)
+- [ ] [Article: Unsupervised NER using BERT](https://towardsdatascience.com/unsupervised-ner-using-bert-2d7af5f90b8a)
+- [ ] [Article: Document search with fragment embeddings](https://towardsdatascience.com/document-search-with-fragment-embeddings-7e1d73eb0104)
+- [ ] [Article: Unsupervised creation of interpretable sentence representations](https://towardsdatascience.com/unsupervised-creation-of-interpretable-sentence-representations-851e74921cf9)
+- [ ] [Article: Maximizing BERT model performance](https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab)
 - [ ] [Article: Character level language model RNN](https://arig23498.github.io/char-level-language-model)
 - [ ] [Article: How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
 - [ ] [Article: How To Create Data Products That Are Magical Using Sequence-to-Sequence Models](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)
@@ -1031,6 +1069,7 @@
 - [ ] [Youtube: What can MIR learn from transfer learning in NLP?](https://www.youtube.com/watch?v=9ufD9Who00Y&t=13m26s)
 - [ ] [Youtube: The Narrated Transformer Language Model](https://www.youtube.com/watch?v=-QH8fRhqFHM)
 - [ ] [Youtube: spaCy v3.0: Bringing State-of-the-art NLP from Prototype to Production](https://globalai.live/october-sessions-natural-language-processing/keynote-2/) `00:22:40`
+- [ ] [Youtube: Conversational AI with Transformers and Rule-Based Systems](https://www.youtube.com/watch?v=_-rCUnPBlME) `1:53:24`
 
 
 ### Be familiar with Recommendation Systems

@@ -3,6 +3,7 @@
 
 ## Learning Objectives
 
+### Table of Content
 [Data Science](DataScience.md)  
 [Programming Languages](ProgrammingLanguages.md)  
 [Computer Science](ComputerScience.md)  

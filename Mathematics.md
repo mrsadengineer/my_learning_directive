@@ -10,7 +10,7 @@
 	- [ ] [Visualizing the chain rule and product rule | Essence of calculus, chapter 4](https://www.youtube.com/watch?v=YG15m2VwSjA) `0:16:52`
 	- [ ] [What's so special about Euler's number e? | Essence of calculus, chapter 5](https://www.youtube.com/watch?v=m2MIpDrF7Es) `0:13:50`
 	- [ ] [Implicit differentiation, what's going on here? | Essence of calculus, chapter 6](https://www.youtube.com/watch?v=qb40J4N1fa4) `0:15:33`
-	- [ ] [Limits, L'H�pital's rule, and epsilon delta definitions | Essence of calculus, chapter 7](https://www.youtube.com/watch?v=kfF40MiS7zA) `0:18:26`
+	- [ ] [Limits, L'Hôpital's rule, and epsilon delta definitions | Essence of calculus, chapter 7](https://www.youtube.com/watch?v=kfF40MiS7zA) `0:18:26`
 	- [ ] [Integration and the fundamental theorem of calculus | Essence of calculus, chapter 8](https://www.youtube.com/watch?v=rfG8ce4nNh0) `0:20:46`
 	- [ ] [What does area have to do with slope? | Essence of calculus, chapter 9](https://www.youtube.com/watch?v=FnJqaIESC2s) `0:12:39`
 	- [ ] [Higher order derivatives | Essence of calculus, chapter 10](https://www.youtube.com/watch?v=BLkz5LGWihw) `0:05:38`
@@ -38,6 +38,8 @@
 	- [ ] [What is backpropagation really doing? | Deep learning, chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U) `0:13:54`
 	- [ ] [Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8) `0:10:17`
 - [ ] [Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
+- [ ] [Article: Entropy of a probability distribution — in layman’s terms](https://medium.com/@ajitrajasekharan/entropy-of-a-probability-distribution-explained-in-laymans-terms-8a4139b329bc)  
+- [ ] [Article: KL Divergence — in layman’s terms](https://medium.com/@ajitrajasekharan/what-is-kl-divergence-d1fb7921ee5b)  
 - [ ] [Article: Relearning Matrices as Linear Functions](https://www.dhruvonmath.com/2018/12/31/matrices/)
 - [ ] [Article: You Could Have Come Up With Eigenvectors - Here's How](https://www.dhruvonmath.com/2019/02/25/eigenvectors/)
 - [ ] [Article: PageRank - How Eigenvectors Power the Algorithm Behind Google Search](https://www.dhruvonmath.com/2019/03/20/pagerank/)
